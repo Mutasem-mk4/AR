@@ -1,0 +1,7 @@
+{
+  "name": "SavoryAR - Restaurant WebAR Platform",
+  "description": "A high-end WebAR platform for restaurant owners to create interactive menus. Upload dish images and sizzling videos to overlay AR content on physical menus via QR codes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
